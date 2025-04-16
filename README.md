@@ -1,6 +1,6 @@
 # 💻 Welcome to My Cybersecurity Projects!
 
-Hi there! I'm [Your Name] — a cybersecurity enthusiast passionate about protecting systems, solving problems, and learning new skills every day.
+Hi there! I'm [DeAnthony Ellis] — a cybersecurity enthusiast passionate about protecting systems, solving problems, and learning new skills every day.
 
 ---
 
